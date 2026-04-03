@@ -71,6 +71,7 @@ body {
     border-radius: 6px;
     background-color: #F5F7FA;
     padding-right: 14px;
+    cursor: pointer;
 }
 
 .sign-but {
@@ -81,6 +82,7 @@ body {
     background-color: #4CAF4F;
     border-style: none;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 /* HERO */
@@ -666,7 +668,7 @@ body {
 .links-link {
     width: 99px;
     color: #4CAF4F;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     letter-spacing: 0%;
     padding: 8px 0;
